@@ -4,4 +4,4 @@ Group member:
 
 Ashlee Tolentino - ashlee-tolentino
 
-[Website link](https://ashlee-tolentino.github.io/my-react-app/)
+[Website link](https://ashlee-tolentino.github.io/assignment3-bank-of-react/)
